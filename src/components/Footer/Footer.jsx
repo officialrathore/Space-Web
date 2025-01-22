@@ -53,7 +53,7 @@ function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-2">
                 <LocationOnIcon />
-                <p>Noida, Uttar Pradesh</p>
+                <p>Udaipur, Rajasthan</p>
               </div>
               <div className="flex items-center gap-3 mt-3">
                 <EmailIcon />
@@ -70,7 +70,7 @@ function Footer() {
               <span className="text-sm text-gray-400">
                 copyright &copy; 2021 All Rights Reserved
               </span>
-              <div className="flex gap-4 sm:mt-0">
+              <div className="flex gap-4sm:mt-0">
                 <a href="#" className="text-4xl"> <InstagramIcon /></a>
                 <a href="#" className="text-4xl"> <FacebookIcon /></a>
                 <a href="#" className="text-4xl"> <LinkedInIcon /></a>
